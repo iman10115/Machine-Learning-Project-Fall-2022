@@ -1,9 +1,8 @@
 # Machine-Learning-Project-Fall-2022
 
-Course: Machine Learning / Fall 2022
+Course: Machine Learning / Fall 2022 / Concordia University
 
 Course Instructor: Professor Dorrah Riahi
-
 
 Team Members: Fatemeh Akbari, Mostafa Abolfazli, Hassan Mokari, Iman Iraei
 
